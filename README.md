@@ -1,5 +1,5 @@
 <!-- GitHub Profile README for Shraddha Srivastava -->
-<!-- Place all images (image.png, tardbp_kg.png, scRNA_clusters.png, tbep_network.png) in the same folder -->
+<!-- Place all images (image.png, tardbp_kg.png, scRNA_clusters.png, tbep_network.png) in the same folder once ready -->
 
 <p align="center">
   <img src="image.png" alt="Shraddha Srivastava" width="160" style="border-radius: 50%;">
@@ -10,15 +10,17 @@
 </p>
 
 <h1 align="center">Hello there 👋</h1>
+<h3 align="center">I'm <b>Shraddha Srivastava</b></h3>
 
 <p align="center">
   <b>Enmeshed in bioinformatics? Happens to the best of us.</b><br>
   Caught in my cosmos — where biology meets computation, and chaos turns into art.
 </p>
 
-🧬 ─ Gene ─ Protein ─ Pathway ─ Disease  
-│       │         │         │  
-🧠     💊      🔄      🧩
+<p align="center">
+  🧬 🧠 🧩 🧫 🔬 🧮 🧬 <br>
+  <i>"Every connection tells a molecular story — and I love deciphering it."</i>
+</p>
 
 ---
 
@@ -26,11 +28,19 @@
 
 ---
 
-### 🔬 Visual Snapshots
+### 🔬 Visual Snapshots  
+*(Preview of my work — replacing soon with real project visuals)*
+
 <p align="center">
-  <img src="tardbp_kg.png" alt="TARDBP Knowledge Graph" width="230">
-  <img src="scRNA_clusters.png" alt="scRNA-seq Clusters" width="230">
-  <img src="tbep_network.png" alt="Target and Biomarker Network" width="230">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Protein-protein_interaction_network.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Protein-protein_interaction_network.png" alt="Protein Interaction Network" width="230">
+  </a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/8/85/Single_cell_RNA-seq_cluster_plot.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Single_cell_RNA-seq_cluster_plot.png" alt="scRNA-seq Clustering Example" width="230">
+  </a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gene_network_example.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gene_network_example.png" alt="Gene Network Visualization" width="230">
+  </a>
 </p>
 
 ---
@@ -129,6 +139,7 @@ Bioinformatics pipelines • RNA-seq analysis • Systems and Network Biology �
 
 ### ✨ Fun Fact  
 I see beauty in noisy data — chaos often hides the most elegant stories.  
+I speak fluent **FASTA** and dream in **gene networks**.
 
 ---
 
@@ -141,8 +152,8 @@ I see beauty in noisy data — chaos often hides the most elegant stories.
 
 ---
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?quote=In+the+genomic+landscape,+every+bit+of+noise+is+a+whisper+from+biology+waiting+to+be+decoded.&author=Shraddha+Srivastava&theme=radical)
 
 <p align="center">
-  <i>“Every dataset tells a story — I just translate it.”</i>
+  <i>“Where algorithms meet biology — that’s where stories of life unfold.”</i>
 </p>
