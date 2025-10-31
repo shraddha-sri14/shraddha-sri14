@@ -110,8 +110,7 @@ Bioinformatics pipelines • RNA-seq analysis • Systems and Network Biology �
 
 ---
 
-### ✨ Fun Fact  
-I see beauty in noisy data — chaos often hides the most elegant stories.  
+### ✨ Fun Fact   
 I speak fluent FASTA and dream in gene networks. 🌌  
 
 ---
