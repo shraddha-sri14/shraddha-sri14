@@ -24,24 +24,7 @@
 
 ---
 
-### 🧠 Bioinformatician — From molecules to models — building data-driven bridges in computation and biology
-
----
-
-### 🔬 Visual Snapshots  
-*(Preview of my work — replacing soon with real project visuals)*
-
-<p align="center">
-  <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Protein-protein_interaction_network.png">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Protein-protein_interaction_network.png" alt="Protein Interaction Network" width="230">
-  </a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/8/85/Single_cell_RNA-seq_cluster_plot.png">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Single_cell_RNA-seq_cluster_plot.png" alt="scRNA-seq Clustering Example" width="230">
-  </a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gene_network_example.png">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gene_network_example.png" alt="Gene Network Visualization" width="230">
-  </a>
-</p>
+###  Bioinformatician — From molecules to models — building data-driven bridges in computation and biology
 
 ---
 
@@ -137,8 +120,7 @@ Bioinformatics pipelines • RNA-seq analysis • Systems and Network Biology �
 
 ---
 
-### ✨ Fun Fact  
-I see beauty in noisy data — chaos often hides the most elegant stories.  
+### ✨ Fun Fact   
 I speak fluent **FASTA** and dream in **gene networks**.
 
 ---
