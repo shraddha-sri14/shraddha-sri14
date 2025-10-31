@@ -1,21 +1,37 @@
 <!-- GitHub Profile README for Shraddha Srivastava -->
-<!-- Place your profile image as image.png in the same folder -->
+<!-- Place all images (image.png, tardbp_kg.png, scRNA_clusters.png, tbep_network.png) in the same folder -->
 
 <p align="center">
   <img src="image.png" alt="Shraddha Srivastava" width="160" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">Hello there</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=29D3A0&center=true&vCenter=true&width=700&lines=Decoding+data+to+discover+biology.;From+molecules+to+models.;Turning+biological+chaos+into+computational+art.">
+</p>
+
+<h1 align="center">Hello there 👋</h1>
 
 <p align="center">
   <b>Enmeshed in bioinformatics? Happens to the best of us.</b><br>
-  Caught in my cosmos — where biology meets computation, and chaos turns into art.<br>
-  Turning biological chaos into computational art.
+  Caught in my cosmos — where biology meets computation, and chaos turns into art.
 </p>
+
+🧬 ─ Gene ─ Protein ─ Pathway ─ Disease  
+│       │         │         │  
+🧠     💊      🔄      🧩
 
 ---
 
-### Bioinformatician — From molecules to models — building data-driven bridges in computation and biology
+### 🧠 Bioinformatician — From molecules to models — building data-driven bridges in computation and biology
+
+---
+
+### 🔬 Visual Snapshots
+<p align="center">
+  <img src="tardbp_kg.png" alt="TARDBP Knowledge Graph" width="230">
+  <img src="scRNA_clusters.png" alt="scRNA-seq Clusters" width="230">
+  <img src="tbep_network.png" alt="Target and Biomarker Network" width="230">
+</p>
 
 ---
 
@@ -46,7 +62,7 @@ Currently focusing on systems biology, network science, and knowledge graph–ba
 
 ---
 
-### 🔬 Projects
+### 🔬 Major Projects
 
 #### 🧩 **TARDBP Knowledge Graph (ALS–FTD Research)**  
 *Ongoing*  
@@ -90,6 +106,14 @@ Traced global viral evolution and migration patterns by integrating sequence and
 
 ---
 
+### 🌌 BioVerse Meter
+🧬 Genomics: ██████████░░ 90%  
+🧠 Systems Biology: ███████████ 95%  
+💊 Drug Discovery: ████████░░░ 75%  
+📈 Data Science: █████████░░░ 80%
+
+---
+
 ### 🧠 Technical Skills
 - **Languages:** Python, R, SQL  
 - **Bioinformatics Tools:** Seurat, DESeq2, GEO2R, DAVID, STRING, PyPath  
@@ -112,12 +136,13 @@ I see beauty in noisy data — chaos often hides the most elegant stories.
 <p align="center">
   <a href="https://github.com/shraddha-sri14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="mailto:shraddhasrivastava.bio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:shraddha.bioinfo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">
-  <i>“Curiosity fuels the exploration. Creativity shapes the discovery.”</i>
-</p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align="center">
+  <i>“Every dataset tells a story — I just translate it.”</i>
+</p>
