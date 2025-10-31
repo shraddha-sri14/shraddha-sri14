@@ -1,9 +1,6 @@
 <!-- GitHub Profile README for Shraddha Srivastava -->
 <!-- Place all images (image.png, tardbp_kg.png, scRNA_clusters.png, tbep_network.png) in the same folder once ready -->
 
-<p align="center">
-  <img src="image.png" alt="Shraddha Srivastava" width="160" style="border-radius: 50%;">
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=29D3A0&center=true&vCenter=true&width=700&lines=Decoding+data+to+discover+biology.;From+molecules+to+models.;Turning+biological+chaos+into+computational+art.">
