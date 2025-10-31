@@ -1,6 +1,8 @@
 <!-- GitHub Profile README for Shraddha Srivastava -->
 <!-- Place all images (image.png, tardbp_kg.png, scRNA_clusters.png, tbep_network.png) in the same folder -->
 
+<h1 align="center">Hello, I'm <b>Shraddha Srivastava</b> 👋</h1>
+
 <p align="center">
   <b>Enmeshed in bioinformatics? Happens to the best of us.</b><br>
   Caught in my cosmos — where biology meets computation, and chaos turns into art.
@@ -126,5 +128,5 @@ I speak fluent FASTA and dream in gene networks. 🌌
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
-  <i>“In the intricate networks of biology, every dataset whispers a story — bioinformatics lets me translate it.”</i>
+  <i>“Every dataset tells a story — I just translate it.”</i>
 </p>
