@@ -5,7 +5,7 @@
 
 <p align="center">
   <b>Enmeshed in bioinformatics? Happens to the best of us.</b><br>
-  Caught in my cosmos — where biology meets computation, and chaos turns into art.
+  Caught in my cosmos — where biology meets AI and chaos turns into art.
 </p>
 
 <p align="center">
