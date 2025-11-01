@@ -124,7 +124,7 @@ I speak fluent FASTA and dream in gene networks. 🌌
 ---
 
 ![Quote](https://quotes-github-readme.vercel.app/api?quote=In+the+genomic+landscape,+every+bit+of+noise+is+a+whisper+from+biology+waiting+to+be+decoded.&author=Shraddha+Srivastava&theme=radical)
-)
+
 
 <p align="center">
   <i>“Every dataset tells a story — I just translate it.”</i>
