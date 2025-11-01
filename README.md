@@ -26,7 +26,7 @@ Currently focusing on systems biology, network science, and knowledge graph–ba
 ---
 
 ### 💼 Experience
-- **Bioinformatics Consultant**, Crecientech Infosystem Pvt. Ltd. *(Mar 2025 – May 2025)*  
+- **Bioinformatics Consultant**, Crecientech Infosystem Pvt. Ltd. *(Mar 2025 – Current)*  
   Contributed to biomarker discovery platforms (TBEP, TDP) by integrating systems biology and computational pipelines.  
   Focused on drug repurposing through data analysis using PrimeKG and TxGNN.
 
@@ -49,10 +49,9 @@ Currently focusing on systems biology, network science, and knowledge graph–ba
 
 #### 🧩 **TARDBP Knowledge Graph (ALS–FTD Research)**  
 *Ongoing*  
-Developed a multi-layered knowledge graph centered on the TARDBP gene to explore its molecular role in ALS and FTD.  
+Constructing a multi-layered knowledge graph centered on the TARDBP gene to explore its molecular role in ALS and FTD.  
 Integrated omics, pathway, and interaction data to uncover disease-associated networks.  
 Applied systems biology and network analysis to reveal regulatory relationships across molecular layers.  
-*Lead Author & Maintainer.*
 
 ---
 
