@@ -47,7 +47,7 @@ Currently focusing on systems biology, network science, and knowledge graph–ba
 
 ### 🔬 Major Projects
 
-#### 🧩 **TARDBP Knowledge Graph (ALS–FTD Research)**  
+#### 🧩 **TDP-43 Knowledge Graph**  
 *Ongoing*  
 Constructing a multi-layered Disease specific knowledge graph
 Integrated omics, pathway, and interaction data to uncover disease-associated networks.  
