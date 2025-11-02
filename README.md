@@ -49,7 +49,7 @@ Currently focusing on systems biology, network science, and knowledge graph–ba
 
 #### 🧩 **TARDBP Knowledge Graph (ALS–FTD Research)**  
 *Ongoing*  
-Constructing a multi-layered knowledge graph centered on the TARDBP gene to explore its molecular role in ALS and FTD.  
+Constructing a multi-layered Disease specific knowledge graph
 Integrated omics, pathway, and interaction data to uncover disease-associated networks.  
 Applied systems biology and network analysis to reveal regulatory relationships across molecular layers.  
 
